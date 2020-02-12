@@ -1,0 +1,23 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "Smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamjain2908/inbox.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum"
+  ],
+  "author": "SJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhamjain2908/inbox/issues"
+  },
+  "homepage": "https://github.com/Shubhamjain2908/inbox#readme"
+}
