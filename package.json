@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Shubhamjain2908/inbox#readme",
   "dependencies": {
     "ganache-cli": "^6.9.0",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "solc": "^0.4.17",
     "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.0.0-beta.26"
